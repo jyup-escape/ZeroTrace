@@ -14,3 +14,5 @@ Now all you have to do is wait for it to be deleted.
 ```
 $ go run main.go
 ```
+# ---- License ----
+Please use this tool in accordance with the MIT License
